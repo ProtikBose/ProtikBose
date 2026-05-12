@@ -11,7 +11,7 @@ PhD student in Computer Science at Arizona State University, working at the inte
 
 ## Phoenix Walkability Weather Risk — Live
 
-> Auto-updated every 2 hours via GitHub Actions · Data: [Open-Meteo](https://open-meteo.com) · Location: Phoenix, AZ
+> Auto-updated every 3 hours via GitHub Actions · Data: [Open-Meteo](https://open-meteo.com) · Location: Phoenix, AZ
 
 ![Phoenix Walkability Weather Risk](walkability_weather.png)
 
