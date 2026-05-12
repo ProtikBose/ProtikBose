@@ -25,10 +25,10 @@ PhD student in Computer Science at Arizona State University, working at the inte
 
 ## 🚶 Phoenix Walkability Weather Risk — Live
 
-> Auto-updated every 2 hours via GitHub Actions · Data: Open-Meteo · Location: Phoenix, AZ
+> Auto-updated every 2 hours via GitHub Actions · Data: [Open-Meteo](https://open-meteo.com) · Location: Phoenix, AZ
 
 ![Phoenix Walkability Weather Risk](walkability_weather.png)
 
 📄 [View latest conditions →](walkability_weather.md)
 
-Because a sidewalk is only useful when the climate allows people to walk.
+Because a sidewalk is only useful when the climate allows people to walk. Tracks **feels-like temperature** (heat + humidity + sun + wind), not raw air temp — see the [latest report](walkability_weather.md) for thresholds and methodology.
