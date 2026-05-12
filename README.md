@@ -22,3 +22,13 @@ PhD student in Computer Science at Arizona State University, working at the inte
 - Email: [ppranto@asu.edu](mailto:ppranto@asu.edu)
 - Website: [Portfolio](https://protikbose.github.io/)
 - GitHub: [GitHub](https://github.com/protikbose77)
+
+## 🚶 Phoenix Walkability Weather Risk — Live
+
+> Auto-updated every 2 hours via GitHub Actions · Data: Open-Meteo · Location: Phoenix, AZ
+
+![Phoenix Walkability Weather Risk](walkability_weather.png)
+
+📄 [View latest conditions →](walkability_weather.md)
+
+Because a sidewalk is only useful when the climate allows people to walk.
