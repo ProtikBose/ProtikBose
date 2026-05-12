@@ -159,7 +159,7 @@ The counters in the table above use the same bands:
 
 _This live snapshot connects weather conditions with pedestrian infrastructure usability. A sidewalk may exist physically, but extreme heat can reduce whether people can safely and comfortably use it._
 
-_Auto-updated every 2 hours via GitHub Actions._
+_Auto-updated every 3 hours via GitHub Actions._
 """
 
 with open("walkability_weather.md", "w", encoding="utf-8") as f:
