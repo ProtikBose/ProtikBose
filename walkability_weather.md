@@ -1,16 +1,16 @@
 # 🚶 Phoenix Walkability Weather Risk — Live
 
-Updated: **May 12, 2026 at 07:30 Phoenix time**
+Updated: **May 12, 2026 at 11:00 Phoenix time**
 
 | Metric | Value |
 |---|---:|
-| Air temperature | 30.7°C |
-| Feels-like temperature | 27.8°C |
-| Relative humidity | 14% |
-| Wind speed | 5.6 km/h |
-| UV index | 1.35 |
-| Current walking risk | **Low** |
-| Uncomfortable walking hours in next 18h | 10 hours |
+| Air temperature | 37.6°C |
+| Feels-like temperature | 37.5°C |
+| Relative humidity | 9% |
+| Wind speed | 3.9 km/h |
+| UV index | 7.25 |
+| Current walking risk | **Moderate** |
+| Uncomfortable walking hours in next 18h | 8 hours |
 | High-risk walking hours in next 18h | 5 hours |
 | Extreme-risk walking hours in next 18h | 0 hours |
 
@@ -46,4 +46,4 @@ The counters in the table above use the same bands:
 
 _This live snapshot connects weather conditions with pedestrian infrastructure usability. A sidewalk may exist physically, but extreme heat can reduce whether people can safely and comfortably use it._
 
-_Auto-updated every 2 hours via GitHub Actions._
+_Auto-updated every 3 hours via GitHub Actions._
