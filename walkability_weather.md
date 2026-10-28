@@ -1,14 +1,14 @@
 # 🚶 Phoenix Walkability Weather Risk — Live
 
-Updated: **Oct 28, 2026 at 12:15 Phoenix time**
+Updated: **Oct 28, 2026 at 16:45 Phoenix time**
 
 | Metric | Value |
 |---|---:|
-| Air temperature | 27.3°C |
-| Feels-like temperature | 26.5°C |
-| Relative humidity | 23% |
-| Wind speed | 3.4 km/h |
-| UV index | 5.05 |
+| Air temperature | 28.1°C |
+| Feels-like temperature | 25.4°C |
+| Relative humidity | 19% |
+| Wind speed | 5.9 km/h |
+| UV index | 0.75 |
 | Current walking risk | **Low** |
 | Uncomfortable walking hours in next 18h | 0 hours |
 | High-risk walking hours in next 18h | 0 hours |
